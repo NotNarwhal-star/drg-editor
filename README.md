@@ -1,9 +1,3 @@
-# ⚠️ NOTICE
-
-# AS REQUESTED BY THE DEVELOPERS OF THE GAME, I TOOK DOWN THE ONLINE EDITOR AND I'M NOT GOING TO UPDATE IT ANY MORE, THE CODE WILL BE AVAILABLE FOR ANYONE TO MANTAIN/FORK.
-
-# Deep Rock Galactic Save Editor
-
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ![DRG Version](https://img.shields.io/badge/DRG%20Version-1.37-yellow.svg?style=flat)
 ![DRG Season](https://img.shields.io/badge/DRG%20Season-3-blue.svg?style=flat)
